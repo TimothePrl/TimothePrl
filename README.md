@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimothePrl
 - 👀 I’m interested in Quantum Computing and Data Science
 - 🌱 I’m currently learning Quantum Computing
-- 💞️ I’m looking to collaborate on Quantum Technologues
+- 💞️ I’m looking to collaborate on Quantum Technologies
 
 <!---
 TimothePrl/TimothePrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
